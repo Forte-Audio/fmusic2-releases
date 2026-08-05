@@ -3,6 +3,21 @@
     <channel>
         <title>fMusic2</title>
         <item>
+            <title>0.0.42</title>
+            <pubDate>Wed, 05 Aug 2026 11:05:30 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.0.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic2-0.0.42.zip" length="73584769" type="application/octet-stream" sparkle:edSignature="JGdPC2rchx/mcCaNDiMOt942D/EPt1ck2EyCWeYFxZ9k7KeeUyrKsKZBBapJDiQiJCK/bpFAPSNYJZ1x27U2CA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic211-10.delta" sparkle:deltaFrom="10" length="1582474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3JqxuzQk5Ph9KP3LJT+XyD2a9siv8cwF96PLKjUVQq2kJ4//B+vPCVPTbMSyUE1uQlUkfd/0Nqky/OXf3hzjDg=="/>
+                <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic211-9.delta" sparkle:deltaFrom="9" length="2604706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mBXdx5pMr4mXqR+WpfbQ5Y8+mKx7UQPZVygfNMwgqqgyYiW4GNANueYjEWZ+Oj//QAujXLamZUD/q+oE9fULAQ=="/>
+                <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic211-8.delta" sparkle:deltaFrom="8" length="2693702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RjqGI7L623n6zYhdTc/EnSGk5xg9LMIwygkXSgArclbg5fM2tsOz/QjmiAXZ/VykLTQqVNnSTixC6AF6C0ZjCQ=="/>
+                <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic211-7.delta" sparkle:deltaFrom="7" length="2995870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5K3hgBq3W7Y6J4S8Hius7HYewCjKlkDu1UKK/wocg6cYKeMGF4cMWeM+bsparhbd6gMdik+sfgWcO/W7xTjFAQ=="/>
+                <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic211-6.delta" sparkle:deltaFrom="6" length="3120934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eFJMk5RHWNDHmbfLrxoKUU2YHx9/36u/qTbFWiFoHd/J4LAAPeV3ZKMGhQUKav7Ztp6SqbXRvRif7nb+c86KCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.41</title>
             <pubDate>Wed, 05 Aug 2026 07:56:53 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic29-6.delta" sparkle:deltaFrom="6" length="2665158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VnGRUzWaOrygyRRZ7JGYv06crjIBM61CbrVQzyrNM4zxwTjZgcQdJmxno6S2ciDxG30AZL0hlkNQB92mVUk5Aw=="/>
                 <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic29-5.delta" sparkle:deltaFrom="5" length="3574578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vqU1MbkC6Ppsz9ExCETpfvAwd6MUdczNP1Yw64qgb2zBiIxDumzCV7qFYMMU9DLy3lHE9d3EndzSN3off0ywBA=="/>
                 <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic29-4.delta" sparkle:deltaFrom="4" length="3904914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LXLTziUb3xIG47apII8vMRrZMlDKcTXIxAgdY0RNuqZ3+k1cVgebQQqQVJFNCDaQh/SCnUBnQwZQNzV0iEMvBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.0.34</title>
-            <pubDate>Mon, 03 Aug 2026 14:00:36 +0000</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.0.34</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic2-0.0.34.zip" length="73402597" type="application/octet-stream" sparkle:edSignature="vHIiDb6zKLGVvy3SLmhBRRWaP0shRDgQ7EeJtQq/E0rMYOMWcbzMQ6We35kDE9A5IkLg8zjl4hNmdG/lafkgAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic28-7.delta" sparkle:deltaFrom="7" length="2320726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="trnqY/2GkJUp8uRm/wtmdPYnfX1eTlBZZWe6wX4FgUNkoLLHfgzVk7fTKW+maLHJ1WIAxE3lxftKLJYZRxhKCg=="/>
-                <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic28-6.delta" sparkle:deltaFrom="6" length="2550038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cjcZWkYjMpsfqFRCeG9QBiwCS0ejlz0Qc0QSIs6uMO57GbKhyJoaKu1wX9qzPqIl37TNt2zTDRJhR72DIw0TBQ=="/>
-                <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic28-5.delta" sparkle:deltaFrom="5" length="3528778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+t2NQTn05a5sWenAfxxwF4/1kL6Hb6pXiLQXDoO0IdNPKTUqnA4zR9CPklaSAPCYgMfjIq6xuURJD1/j0xWGAQ=="/>
-                <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic28-4.delta" sparkle:deltaFrom="4" length="3828958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w7CuxnwogiOegPfrj5hSl1khMkgz3q19Kz4+lUYZpYOyguGTdcU9W+YcnvpDpk/JhIE3NYsy092siR6LaRHCCg=="/>
-                <enclosure url="https://forte-audio.github.io/fmusic2-releases/fMusic28-3.delta" sparkle:deltaFrom="3" length="3899298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4TDo3NJk8dQ+GKqTWN984W3H/y4lKWwQtndCP+BXgTaVcqRvlFi0Lg4p3LN9ewLE6uDGkaZbJsbJq6+9uHRXAg=="/>
             </sparkle:deltas>
         </item>
     </channel>
