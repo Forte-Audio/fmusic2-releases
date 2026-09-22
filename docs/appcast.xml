@@ -3,12 +3,12 @@
     <channel>
         <title>fMusic</title>
         <item>
-            <title>3.20.0</title>
-            <pubDate>Tue, 22 Sep 2026 14:31:10 +0200</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>3.20.0</sparkle:shortVersionString>
+            <title>4.0.0</title>
+            <pubDate>Tue, 22 Sep 2026 16:40:01 +0200</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Forte-Audio/fmusic2-releases/releases/download/v3.20.0/fMusic-3.20.0.zip" length="100496757" type="application/octet-stream" sparkle:edSignature="L/p6dAxi88+5qQNQx+ToD24DmUWJS+NVz0T1zAfy4DhoGze2LevzgzjK7wgK4pwTwrlbmF3+p2ZtgOiIJTtoAw=="/>
+            <enclosure url="https://github.com/Forte-Audio/fmusic2-releases/releases/download/v4.0.0/fMusic-4.0.0.zip" length="100505955" type="application/octet-stream" sparkle:edSignature="dZHyhq3xHRaBawPgpVDdQpNK8wJhPS++BW2QNFERb4E7HsfGoUHi4+Bb6TW3RYHc52STAMvPW0czv7PyOuYKAg=="/>
         </item>
     </channel>
 </rss>
