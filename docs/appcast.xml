@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>fMusic2</title>
+        <title>fMusic</title>
         <item>
-            <title>0.0.43</title>
-            <pubDate>Mon, 31 Aug 2026 18:16:50 +0000</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.0.43</sparkle:shortVersionString>
+            <title>3.20.0</title>
+            <pubDate>Tue, 22 Sep 2026 14:31:10 +0200</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>3.20.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Forte-Audio/fmusic2-releases/releases/download/v0.0.43/fMusic2-0.0.43.zip" length="150074440" type="application/octet-stream" sparkle:edSignature="TnPpGoWOKSVkhQmQ+a4Si+Qaho+ipUm8uzHq9oyElQJuBrIm5eSh0nDLk/9zRNS2kfyCqiwCl90VW7FWhlQLDA=="/>
+            <enclosure url="https://github.com/Forte-Audio/fmusic2-releases/releases/download/v3.20.0/fMusic-3.20.0.zip" length="100496757" type="application/octet-stream" sparkle:edSignature="L/p6dAxi88+5qQNQx+ToD24DmUWJS+NVz0T1zAfy4DhoGze2LevzgzjK7wgK4pwTwrlbmF3+p2ZtgOiIJTtoAw=="/>
         </item>
     </channel>
 </rss>
